@@ -1,0 +1,22 @@
+{
+  "name": "Maderos de San José",
+  "short_name": "Maderos",
+  "description": "App oficial del coro Maderos de San José",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "../img/portada.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "../img/portada.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
